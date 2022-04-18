@@ -11,6 +11,6 @@ public class MiControlador {
 	
 	@GetMapping
 	public String hola(){
-		return "Hello";
+		return "Hello world";
 	}
 }
